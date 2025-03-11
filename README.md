@@ -2,21 +2,43 @@
 
 A **Secure ASP.NET Core Web API** with **JWT Authentication & Refresh Token**, built using **Clean Architecture**. This project follows best practices and includes **Swagger UI** for API documentation.
 
-## ✨ Features
-- 🔐 **JWT Authentication** (Access & Refresh Tokens)
-- 🏗️ **Clean Architecture** (Separation of Concerns)
-- 📄 **Swagger UI** (API Documentation)
-- 📚 **Entity Framework Core** with **SQL Server**
-- 🔁 **Refresh Token Mechanism** for Secure Authentication
+### ✨ Features 
+- 🏗️ **Clean Architecture :** Separation of concerns with layers (Presentation, Application, Domain, Infrastructure).
 
----
+- 🔐 **JWT Authentication :** Secure token-based authentication with access and refresh tokens.
+
+- 🔁 **Refresh Tokens :** Automatically refresh expired access tokens for seamless user sessions.
+
+- 🏬 **SQL Server :** Database integration using Entity Framework Core.
+
+- 📄 **Swagger UI :** Interactive API documentation with authentication support.
+
+- 📡 **RESTful API :** Follows REST principles for easy integration.
+
+### 🖥️ Technologies Used
+- ⚙️ ASP.NET Core 8
+- 🔑 JWT (JSON Web Tokens)
+- 🏛️ Entity Framework Core
+- 🏬 SQL Server
+- 📜 Swagger/OpenAPI
 
 ## 📌 **Getting Started**
 
 ### 🚀 Prerequisites
-- ✅ .NET 8 or later  
+- ✅ .NET 8  
 - ✅ SQL Server  
 - ✅ Visual Studio
 
-### 🔧 **Installation & Setup**
+## 📁 Project Structure
+
+```plaintext
+asp.netcore-jwt-refreshtoken-cleanarchitecture/
+│
+├── src/
+│   ├── 📂 Presentation/       # Controllers, Middleware
+│   ├── 📂 Application/        # Use Cases, Services
+│   ├── 📂 Domain/             # Entities, Interfaces
+│   ├── 📂 Infrastructure/     # Database, Repositories
+
+
 
