@@ -1,0 +1,17 @@
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\bin\Debug\net8.0\InfrastrctureLayer.deps.json
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\bin\Debug\net8.0\InfrastrctureLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\bin\Debug\net8.0\InfrastrctureLayer.pdb
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\bin\Debug\net8.0\ApplicationLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\bin\Debug\net8.0\DomainLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\bin\Debug\net8.0\DomainLayer.pdb
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\InfrastrctureLayer.csproj.AssemblyReference.cache
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\InfrastrctureLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\InfrastrctureLayer.AssemblyInfoInputs.cache
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\InfrastrctureLayer.AssemblyInfo.cs
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\InfrastrctureLayer.csproj.CoreCompileInputs.cache
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\Infrastr.69FC313A.Up2Date
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\InfrastrctureLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\refint\InfrastrctureLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\InfrastrctureLayer.pdb
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\InfrastrctureLayer\obj\Debug\net8.0\ref\InfrastrctureLayer.dll

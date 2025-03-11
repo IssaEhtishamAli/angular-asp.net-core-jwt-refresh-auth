@@ -1,0 +1,11 @@
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

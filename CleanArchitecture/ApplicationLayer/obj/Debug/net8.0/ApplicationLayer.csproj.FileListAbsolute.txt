@@ -1,0 +1,11 @@
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+E:\Angular + Asp.NetCoreApi + SQL\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll
