@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using JwtRefreshTokenBackend.CustomMiddlewares;
 using System.Text;
@@ -13,13 +13,15 @@ var builder = WebApplication.CreateBuilder(args);
 // Configure CORS (you can adjust the policy as needed)
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowSpecificOrigins", policy =>
+    options.AddPolicy("AllowAngularApp", policy =>
     {
-        policy.WithOrigins("http://localhost:4200") // Angular dev server, for example
+        policy.WithOrigins("http://localhost:4200") // ✅ Allow your frontend URL
               .AllowAnyHeader()
-              .AllowAnyMethod();
+              .AllowAnyMethod()
+              .AllowCredentials(); // ✅ Needed if using authentication (cookies, tokens)
     });
 });
+
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -81,7 +83,7 @@ var app = builder.Build();
 
 
 // Enable CORS using the defined policy
-app.UseCors("AllowSpecificOrigins");
+app.UseCors("AllowAngularApp"); // ✅ Apply CORS middleware before authentication
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
